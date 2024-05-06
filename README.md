@@ -1,5 +1,5 @@
 # hyp
-> Minimal, responsive CSS framework for lazy developers.
+> Minimal, responsive CSS framework for lazy developers. Developed by [@xkrsz](https://github.com/xkrsz).
 
 # Getting started
 `npm install hypcss`
