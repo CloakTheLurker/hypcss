@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/krszwsk/hyp.git"
+    "url": "git+https://github.com/CloakTheLurker/hyp.git"
   },
-  "author": "Krzysztof Kraszewski <krszwsk@gmail.com>",
+  "author": "Chris Kraszewski",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/krszwsk/hyp/issues"
+    "url": "https://github.com/CloakTheLurker/hyp/issues"
   },
-  "homepage": "https://github.com/krszwsk/hyp#readme",
+  "homepage": "https://github.com/CloakTheLurker/hyp#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-clean-css": "^2.0.13",
