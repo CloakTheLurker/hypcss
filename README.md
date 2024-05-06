@@ -1,4 +1,4 @@
-![hyp](https://raw.githubusercontent.com/krszwsk/hyp/master/docs/img/hyp.png)
+hyp
 > Minimal, responsive CSS framework for lazy developers.
 
 # Getting started
@@ -6,8 +6,3 @@
 
 ## Or use `unpkg` CDN:
 `<link rel="stylesheet" type="text/css" href="//unpkg.com/hypcss@0.1.0/dist/hyp.min.css">`
-
-# [Documentation](http://krszwsk.co/hyp/#docs)
-
-## Found a bug?
-Submit an [issue](https://github.com/krszwsk/hyp/issues)
