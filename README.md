@@ -1,4 +1,4 @@
-hyp
+# hyp
 > Minimal, responsive CSS framework for lazy developers.
 
 # Getting started
